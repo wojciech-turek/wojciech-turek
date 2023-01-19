@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🏗️  I’m currently working on personal projects:
+  - [TokenHatchery](https://tokenhatchery.com) which is a no-code contract deployed that uses well-audited OpenZepplin contracts.
+  - [ActionBattleArena](https://github.com/wojciech-turek/BattleArena-Unity) is a web3 powered PvP game that utilizes NFTs for true asset ownership, being build in Unity.
+
+💡 I'm passionate about the web3 space, talk to me if you have ideas, need help with anything or just looking to chat.
+
 <!--
 **wojciech-turek/wojciech-turek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
